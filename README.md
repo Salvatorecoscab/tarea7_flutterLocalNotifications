@@ -95,11 +95,11 @@ plugins {
 ## Captura de pantalla
 ### Permisos solicitados al iniciar la app
 <!-- en folder images -->
-![Permisos solicitados](images/sc1.png)
+![Permisos solicitados](images/sc1.jpeg)
 ### Pantalla principal
-![Pantalla principal](images/sc2.png)
+![Pantalla principal](images/sc2.jpeg)
 ### Notificación enviada
-![Notificación enviada](images/sc3.png)
+![Notificación enviada](images/sc3.jpeg)
 ---
 ## ✅ Resultado
 
